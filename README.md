@@ -1,6 +1,6 @@
 # Currency Converter
 
-This [Currency Converter](https://your-currency-converter-url.com) is a web application built using React and Tailwind CSS, designed to help users convert currencies quickly and easily.
+This [Currency Converter](https://saad-currency-converter.netlify.app/) is a web application built using React and Tailwind CSS, designed to help users convert currencies quickly and easily.
 
 ## Features
 
@@ -18,7 +18,7 @@ This [Currency Converter](https://your-currency-converter-url.com) is a web appl
 
 You can access the Currency Converter web application directly through the hosted URL.
 
-[Currency Converter](https://your-currency-converter-url.com)
+[Currency Converter](https://saad-currency-converter.netlify.app/)
 
 
 <a href="https://www.flaticon.com/free-icons/currency" title="currency icons">Website favicon created by justicon - Flaticon</a>
